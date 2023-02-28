@@ -1,3 +1,7 @@
+*{
+  background-color:white;
+  color:black;
+}
 .title {
   color: #02ccba;
   font-size:200px;
@@ -12,9 +16,12 @@
 .menber-name h1{
   padding-top:20px;
   text-align:center;
+  font-size:50px;
 
 }
+menber-name p{
+  font-size:24px;
 
 @media(max-width:670px)
-  .menber-name img{
+  .menber-name {
     width:50%;
