@@ -14,3 +14,7 @@
   text-align:center;
 
 }
+
+@media(max-width:670px)
+  .menber-name img{
+    width:50%;
