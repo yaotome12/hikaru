@@ -2,6 +2,11 @@
   background-color:white;
   color:black;
 }
+header{
+  color:plum;
+  height:30px;
+
+}
 .title {
   color: #02ccba;
   font-size:200px;
@@ -25,3 +30,6 @@ menber-name p{
 @media(max-width:670px)
   .menber-name {
     width:50%;
+footer{
+  back-ground-color:plum;
+  height:30px;}
