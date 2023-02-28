@@ -3,13 +3,13 @@
   font-size:200px;
   text-align: center;
 }
-.main h2{
-  text-align:center;
+.main{
+  text-alogn:center;
 }
 .menber-name img{
   width: 150px;
 }
-.menber-name{
+.menber-name h1{
   padding-top:20px;
   text-align:center;
 
